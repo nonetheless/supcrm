@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_linkman"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="联系人" />
+        <item
+            android:id="@+id/nav_customer"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="客户管理" />
+        <item
+            android:id="@+id/nav_commodity"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="商品管理" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="登出" />
+        </menu>
+    </item>
+
+</menu>

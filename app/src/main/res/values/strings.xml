@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">supcrm</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">员工id</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_up">注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">用户id错误</string>
+    <string name="error_invalid_password">密码错误</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">请输入</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_bussiness">BussinessActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linkList_title">联系人</string>
+    <string name="linkman_title_label">姓名</string>
+    <string name="linkman_tel">联系方式</string>
+    <string name="title_activity_link_man">LinkManActivity</string>
+    <string name="title_activity_test_n">TestNActivity</string>
+
+</resources>
